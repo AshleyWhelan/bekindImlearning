@@ -17,6 +17,7 @@ This is where I will drop the code as I learn it... Be kind I am very new to thi
         <LI>I am ready for a new challenge</LI>
         <LI>There is a great community of coders out there that I want to meet</LI>
       </OL>
+      <P>I am going to stop while I am slightly ahead! Yay first code!!!</P>
   </DIV>
 </BODY>
 </HTML>
